@@ -1,0 +1,8 @@
+янв. 28, 2023 1:57:48 AM BubbleSortLogger bubbleSort
+INFO: [2, 2, 4, 5, 5]
+янв. 28, 2023 1:57:48 AM BubbleSortLogger bubbleSort
+INFO: [2, 2, 4, 5, 5]
+янв. 28, 2023 1:57:48 AM BubbleSortLogger bubbleSort
+INFO: [2, 2, 4, 5, 5]
+янв. 28, 2023 1:57:48 AM BubbleSortLogger bubbleSort
+INFO: [2, 2, 4, 5, 5]

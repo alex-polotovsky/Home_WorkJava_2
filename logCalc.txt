@@ -1,0 +1,2 @@
+янв. 28, 2023 8:49:28 PM LoggeredCalculator.Calc sum
+INFO: Операция сложения.
